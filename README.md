@@ -12,6 +12,8 @@ This project is to display my profile in a web page by consuming the data from a
 * ASP.NET Core MVC 3.1
 * .Net Standard class libraries
 * Simple Injector
+* HTML
+* CSS
 
 
 <!-- GETTING STARTED -->
