@@ -27,3 +27,7 @@ This project is to display my profile in a web page by consuming the data from a
 * Clone the repository.
 * Open solution(AboutMe.sln) in VS2019
 * Make AboutMe.API and AboutMe.Presentation as startup projects and run.
+
+## Output
+
+![Output](https://user-images.githubusercontent.com/16623645/120933000-d400e080-c715-11eb-96cd-cfc268a0a359.JPG)
