@@ -1,0 +1,12 @@
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.csprojAssemblyReference.cache
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.AssemblyInfoInputs.cache
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.AssemblyInfo.cs
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\bin\Debug\netstandard2.0\AboutMe.Infrastructure.deps.json
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\bin\Debug\netstandard2.0\AboutMe.Infrastructure.dll
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\bin\Debug\netstandard2.0\AboutMe.Infrastructure.pdb
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\bin\Debug\netstandard2.0\AboutMe.Domain.dll
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\bin\Debug\netstandard2.0\AboutMe.Domain.pdb
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.csproj.CopyComplete
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.dll
+C:\Working\My Work\AboutMe\AboutMe.Infrastructure\obj\Debug\netstandard2.0\AboutMe.Infrastructure.pdb

@@ -1,0 +1,30 @@
+﻿@model AboutMe.Domain.Entities.MyInfo
+@{
+    ViewData["Title"] = "My Info";
+}
+
+<div class="profile_block">
+    <div class="title_block">
+        <h1>About Me</h1>
+    </div>
+    <div class="content">
+        <div class="left_block">
+            <h3>
+                @Model.MyInfoObject.Title
+            </h3>
+            <p>
+                @Model.MyInfoObject.Description
+            </p>            
+            <h4>Skills</h4>
+            <div class="skills">
+                @foreach (var skill in @Model.MyInfoObject.Skills)
+                {
+                    <p>@skill</p>
+                }                
+            </div>
+        </div>
+        <div class="right_block">            
+            <img src="@Model.MyInfoObject.ProfileImage" class="profile_image" alt=""/>
+        </div>
+    </div>
+</div>

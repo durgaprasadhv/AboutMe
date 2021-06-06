@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqv3+OHTBEZnf8JS+WARQv8AdV9yvGu5f6lj2ewSEDGR7/Q3FA5eYFlDXWxZnT31XvHqJoEQ6lRM/51mppFy7w==",
+  "success": true,
+  "projectFilePath": "C:\\Working\\My Work\\AboutMe\\AboutMe.Infrastructure\\AboutMe.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\durga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\durga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
