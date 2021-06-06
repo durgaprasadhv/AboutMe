@@ -17,11 +17,11 @@ This project is to display my profile in a web page by consuming the data from a
 <!-- GETTING STARTED -->
 ## Prerequisites
 
-* Visual Studio 2019 recomonded.
+* Visual Studio 2019(recommended).
 * ASP.NET Core 3.1
 
 ## Getting Started
 
 * Clone the repository.
-* Open solution in VS2019
+* Open solution(AboutMe.sln) in VS2019
 * Make AboutMe.API and AboutMe.Presentation as startup projects and run.
